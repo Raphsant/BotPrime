@@ -5904,11 +5904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafsa\\source\\repos\\BotPrime\\BotPrime\\BotPrime.csproj",
+      "projectUniqueName": "C:\\Users\\Rafsa\\Desktop\\BotPrime\\BotPrime\\BotPrime.csproj",
       "projectName": "BotPrime",
-      "projectPath": "C:\\Users\\Rafsa\\source\\repos\\BotPrime\\BotPrime\\BotPrime.csproj",
+      "projectPath": "C:\\Users\\Rafsa\\Desktop\\BotPrime\\BotPrime\\BotPrime.csproj",
       "packagesPath": "C:\\Users\\Rafsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafsa\\source\\repos\\BotPrime\\BotPrime\\obj\\",
+      "outputPath": "C:\\Users\\Rafsa\\Desktop\\BotPrime\\BotPrime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
